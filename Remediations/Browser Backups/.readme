@@ -1,0 +1,3 @@
+This 'Browser Backup' remediation script will automatically backup users Google Chrome and Microsoft Edge browser favorites every week. 
+
+Follow the code notes to see where you will have to update the OneDrive link so that it is automatically backed up to the cloud.
