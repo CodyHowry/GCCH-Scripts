@@ -1,0 +1,1 @@
+manage-bde -on "C:" -skiphardwaretest #change the drive letter to what you are looking to encrypt
